@@ -14,6 +14,8 @@ for data in datas:
 				continue
 			elif i[0]=='▼':
 				continue
+			elif i[0]=='◆':
+				continue
 			elif i[0]=='\uf070':
 				continue
 			elif i[0]=='\uf074':
